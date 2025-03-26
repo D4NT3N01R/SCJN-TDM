@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* @theme{
+  --pantone654: #003A70;
+}  ##Esto ya no supe bien, se necesita un postcss, pero acorde a la doc, esto es antiguo */
